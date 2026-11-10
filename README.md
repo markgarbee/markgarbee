@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Mark Garbee 👋
 
-<!--
-**markgarbee/markgarbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technology & Cybersecurity
 
-Here are some ideas to get you started:
+I'm interested in technology, cybersecurity, and the systems that power our digital world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm continuously developing my practical skills and exploring new areas of technology.
+
+### Areas of Interest
+
+- 🔐 Cybersecurity
+- 🛡️ Ethical Hacking
+- 🔎 Open-Source Intelligence (OSINT)
+- 💻 Programming
+- 🌐 Networking
+- 🚀 Digital Innovation
+
+### Current Focus
+
+- Building my professional digital presence.
+- Developing my personal technology portfolio.
+- Learning and documenting practical technology projects.
+- Exploring cybersecurity concepts and responsible security practices.
+
+### Find Me Online
+
+- 🌍 **Website:** https://markgarbee.github.io/
+- 💻 **GitHub:** https://github.com/markgarbee
+
+---
+
+*Learning, building, and exploring technology one project at a time.*
