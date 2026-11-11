@@ -22,11 +22,12 @@ I'm continuously developing my practical skills and exploring new areas of techn
 - Learning and documenting practical technology projects.
 - Exploring cybersecurity concepts and responsible security practices.
 
+
 ### Find Me Online
 
 - 🌍 **Website:** https://markgarbee.github.io/
 - 💻 **GitHub:** https://github.com/markgarbee
-- - LinkedIn: https://www.linkedin.com/in/mark-garbee-17341444a/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mark-garbee-17341444a/
 
 ---
 
