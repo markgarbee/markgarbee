@@ -26,6 +26,7 @@ I'm continuously developing my practical skills and exploring new areas of techn
 
 - 🌍 **Website:** https://markgarbee.github.io/
 - 💻 **GitHub:** https://github.com/markgarbee
+- - LinkedIn: https://www.linkedin.com/in/mark-garbee-17341444a/
 
 ---
 
