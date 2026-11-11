@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://markgarbee.github.io/mark-garbee-github-profile.jpg"
+       alt="Official profile photograph of Mark Garbee"
+       width="180">
+</p>
 # Hi, I'm Mark Garbee 👋
 
 ### Technology & Cybersecurity
